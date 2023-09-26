@@ -12,7 +12,7 @@ every time it runs out.
     
 all data structures are dynamically allocated 
 
-## Functionality
+## Usage
 Character to be read for each operation
 1. `L` - Load a matrix scanned from STDIN, together with its number of lines 
 and columns.
